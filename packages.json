@@ -1,1 +1,9 @@
-
+{  
+   "packages":[  
+      {  
+         "plugin_name":"Ghost Ping",
+         "plugin_author":"DeadBread",
+         "plugin_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Plugins-V2/master/packages/Ghost%20Ping%20By%20DeadBread.zip"
+      }
+   ]
+}
