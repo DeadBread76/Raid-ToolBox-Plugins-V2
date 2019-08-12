@@ -4,6 +4,11 @@
          "plugin_name":"Ghost Ping",
          "plugin_author":"DeadBread",
          "plugin_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Plugins-V2/master/packages/Ghost%20Ping%20By%20DeadBread.zip"
+      },
+      {  
+         "plugin_name":"Bulk Inventory Checker",
+         "plugin_author":"DeadBread",
+         "plugin_dl_link":"https://raw.githubusercontent.com/DeadBread76/Raid-ToolBox-Plugins-V2/master/packages/Bulk%20Inventory%20Checker%20by%20DeadBread.zip"
       }
    ]
 }
